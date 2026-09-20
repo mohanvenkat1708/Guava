@@ -1,1 +1,8 @@
-.vs
+# build output and intermediate directories
+bin/
+obj/
+
+# Visual Studio User Settings
+.vs/
+*.user
+*.suo
